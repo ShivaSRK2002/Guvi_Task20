@@ -6,7 +6,7 @@ import time
 from selenium.webdriver.common.by import By
 
 # Set the path for the ChromeDriver executable
-paths = r"C:\Users\Ranga\OneDrive\Desktop\chromedriver.exe"
+paths = r"C:\Users\shiva\OneDrive\Desktop\chromedriver.exe"
 os.environ["PATH"] += os.pathsep + os.path.dirname(paths)
 
 # Set Chrome options to keep the browser open after the script completes

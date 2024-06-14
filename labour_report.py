@@ -6,7 +6,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 import time
 
 # Set the path for the ChromeDriver executable
-chrome_driver_path = r"C:\Users\Ranga\OneDrive\Desktop\chromedriver.exe"
+chrome_driver_path = r"C:\Users\shiva\OneDrive\Desktop\chromedriver.exe"
 os.environ["PATH"] += os.pathsep + os.path.dirname(chrome_driver_path)
 
 # Set Chrome options
